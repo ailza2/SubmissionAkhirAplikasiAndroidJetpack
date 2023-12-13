@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fruits App</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Checkout</string>
+    <string name="about_title">About</string>
+    <string name="about_page">about_page</string>
+    <string name="required_point">%d Rupiah</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d Rupiah</string>
+    <string name="total_order">Total pesanan : %d Rupiah</string>
+    <string name="back">Back</string>
+    <!--    <string name="dicoding_reward">Dicoding Reward</string>-->
+    <string name="ailza_fruit">Ailza Fruit</string>
+    <string name="share_message">Hey, I have bought %1$d Fruit in Fruits App with total %2$d Rupiah. Do you want too?</string>
+    <string name="title_activity_detail_screen">DetailScreen</string>
+    <string name="title_activity_cart_screen">CartScreen</string>
+
+    <!--  Profile Section  -->
+    <string name="profile_name">M. Ailza Sifaul Anam</string>
+    <string name="profile_email">sifaul85@gmail.com</string>
+    <string name="profile_university">University of National Development Veteran East Java </string>
+    <string name="profile_linkedin">https://www.linkedin.com/in/ailzasifaul/</string>
+</resources>
